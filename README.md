@@ -61,6 +61,11 @@ Currently focused on **full-stack development**, **mobile apps**, and **software
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
+### Languages & Fundamentals
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+
 ### Learning Now
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
