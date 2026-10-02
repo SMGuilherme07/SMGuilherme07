@@ -4,7 +4,7 @@
 🇧🇷 Leopoldina, Minas Gerais, Brazil
 
 I'm passionate about **building scalable web & mobile applications**, **clean architecture**, and **learning by doing**.  
-Currently focused on **full-stack development**, **mobile apps**, and **software engineering best practices**.
+Currently focused on **full-stack development**, **mobile apps**, **backend development**, and **software engineering best practices**.
 
 ---
 
@@ -26,12 +26,12 @@ Currently focused on **full-stack development**, **mobile apps**, and **software
 
 ## 🧠 What I do
 
-- 🏗️ Full-stack web development (React, Laravel, Express)
-- 📱 Mobile development (React Native, Flutter)
-- 🗄️ Database design & optimization (MySQL, PostgreSQL)
-- 🔐 Authentication & security (JWT, bcrypt, OAuth)
+- 🏗️ Full-stack web development with React, Laravel, Express and Spring Boot
+- 📱 Mobile development with React Native and Flutter
+- 🗄️ Database design & optimization with MySQL and PostgreSQL
+- 🔐 Authentication & security with JWT, bcrypt and OAuth
 - 🧩 Clean architecture & layered systems
-- 📚 Learning software engineering & system design
+- 📚 Software engineering, algorithms and system design
 - 🎮 Building projects & solving real problems
 
 ---
@@ -54,6 +54,7 @@ Currently focused on **full-stack development**, **mobile apps**, and **software
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
@@ -63,6 +64,7 @@ Currently focused on **full-stack development**, **mobile apps**, and **software
 
 ### Languages & Fundamentals
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
 
@@ -71,13 +73,13 @@ Currently focused on **full-stack development**, **mobile apps**, and **software
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 
 ### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
@@ -101,8 +103,8 @@ Currently focused on **full-stack development**, **mobile apps**, and **software
 ## 📚 Currently Learning
 
 - 🧱 Clean Architecture & Layered Systems
-- 📱 Flutter & Dart for cross-platform mobile
-- ☕ Spring Boot & Kotlin for backend
+- 📱 Flutter & Dart for cross-platform mobile development
+- ☕ Kotlin and Spring Boot for backend development
 - 🔐 Advanced Authentication Patterns
 - 🗺️ Graph Algorithms & Data Structures
 - 📖 Software Engineering & Requirements Modeling
