@@ -1,4 +1,4 @@
-# Hi 👋, I'm Guilherme Souza
+# Hi 👋, I'm Guilherme Martins Soares
 
 🚀 **Software Engineering Student | Full-Stack & Mobile Developer**  
 🇧🇷 Leopoldina, Minas Gerais, Brazil
